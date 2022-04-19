@@ -1,2 +1,2 @@
 # Google-Ads-Camaign
-The dataset is also included for the code that i have included, Code is written in scala of a Good Big Data Course Online
+The dataset is also included for the code that i have included, Code is written in scala
